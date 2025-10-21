@@ -1,0 +1,1 @@
+/* no external js found in mhtml */
